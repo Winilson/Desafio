@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Winilson de Paula\\Desktop\\backend\\DidActivation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{371199CF-5D3C-46E3-AC08-9C2A482666BE}|src\\DidActivation.Api\\DidActivation.Api.csproj|c:\\users\\winilson de paula\\desktop\\backend\\didactivation\\src\\didactivation.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{371199CF-5D3C-46E3-AC08-9C2A482666BE}|src\\DidActivation.Api\\DidActivation.Api.csproj|solutionrelative:src\\didactivation.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{371199CF-5D3C-46E3-AC08-9C2A482666BE}|src\\DidActivation.Api\\DidActivation.Api.csproj|c:\\users\\winilson de paula\\desktop\\backend\\didactivation\\src\\didactivation.api\\middleware\\errorhandlingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{371199CF-5D3C-46E3-AC08-9C2A482666BE}|src\\DidActivation.Api\\DidActivation.Api.csproj|solutionrelative:src\\didactivation.api\\middleware\\errorhandlingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{371199CF-5D3C-46E3-AC08-9C2A482666BE}|src\\DidActivation.Api\\DidActivation.Api.csproj|c:\\users\\winilson de paula\\desktop\\backend\\didactivation\\src\\didactivation.api\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{371199CF-5D3C-46E3-AC08-9C2A482666BE}|src\\DidActivation.Api\\DidActivation.Api.csproj|solutionrelative:src\\didactivation.api\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF48277-74E6-49F8-9C7D-00002AB1EFCC}|src\\DidActivation.Domain\\DidActivation.Domain.csproj|c:\\users\\winilson de paula\\desktop\\backend\\didactivation\\src\\didactivation.domain\\valueobjects\\did.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF48277-74E6-49F8-9C7D-00002AB1EFCC}|src\\DidActivation.Domain\\DidActivation.Domain.csproj|solutionrelative:src\\didactivation.domain\\valueobjects\\did.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF48277-74E6-49F8-9C7D-00002AB1EFCC}|src\\DidActivation.Domain\\DidActivation.Domain.csproj|c:\\users\\winilson de paula\\desktop\\backend\\didactivation\\src\\didactivation.domain\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF48277-74E6-49F8-9C7D-00002AB1EFCC}|src\\DidActivation.Domain\\DidActivation.Domain.csproj|solutionrelative:src\\didactivation.domain\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF48277-74E6-49F8-9C7D-00002AB1EFCC}|src\\DidActivation.Domain\\DidActivation.Domain.csproj|c:\\users\\winilson de paula\\desktop\\backend\\didactivation\\src\\didactivation.domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF48277-74E6-49F8-9C7D-00002AB1EFCC}|src\\DidActivation.Domain\\DidActivation.Domain.csproj|solutionrelative:src\\didactivation.domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{371199CF-5D3C-46E3-AC08-9C2A482666BE}|src\\DidActivation.Api\\DidActivation.Api.csproj|c:\\users\\winilson de paula\\desktop\\backend\\didactivation\\src\\didactivation.api\\controllers\\activationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{371199CF-5D3C-46E3-AC08-9C2A482666BE}|src\\DidActivation.Api\\DidActivation.Api.csproj|solutionrelative:src\\didactivation.api\\controllers\\activationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Winilson de Paula\\Desktop\\backend\\DidActivation\\src\\DidActivation.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\DidActivation.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Winilson de Paula\\Desktop\\backend\\DidActivation\\src\\DidActivation.Api\\Program.cs",
+              "RelativeToolTip": "src\\DidActivation.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T14:51:40.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorHandlingExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Winilson de Paula\\Desktop\\backend\\DidActivation\\src\\DidActivation.Api\\Middleware\\ErrorHandlingExtensions.cs",
+              "RelativeDocumentMoniker": "src\\DidActivation.Api\\Middleware\\ErrorHandlingExtensions.cs",
+              "ToolTip": "C:\\Users\\Winilson de Paula\\Desktop\\backend\\DidActivation\\src\\DidActivation.Api\\Middleware\\ErrorHandlingExtensions.cs",
+              "RelativeToolTip": "src\\DidActivation.Api\\Middleware\\ErrorHandlingExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T14:51:12.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Winilson de Paula\\Desktop\\backend\\DidActivation\\src\\DidActivation.Api\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "src\\DidActivation.Api\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\Winilson de Paula\\Desktop\\backend\\DidActivation\\src\\DidActivation.Api\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "src\\DidActivation.Api\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T14:49:13.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Did.cs",
+              "DocumentMoniker": "C:\\Users\\Winilson de Paula\\Desktop\\backend\\DidActivation\\src\\DidActivation.Domain\\ValueObjects\\Did.cs",
+              "RelativeDocumentMoniker": "src\\DidActivation.Domain\\ValueObjects\\Did.cs",
+              "ToolTip": "C:\\Users\\Winilson de Paula\\Desktop\\backend\\DidActivation\\src\\DidActivation.Domain\\ValueObjects\\Did.cs",
+              "RelativeToolTip": "src\\DidActivation.Domain\\ValueObjects\\Did.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T14:47:36.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ValidationException.cs",
+              "DocumentMoniker": "C:\\Users\\Winilson de Paula\\Desktop\\backend\\DidActivation\\src\\DidActivation.Domain\\Exceptions\\ValidationException.cs",
+              "RelativeDocumentMoniker": "src\\DidActivation.Domain\\Exceptions\\ValidationException.cs",
+              "ToolTip": "C:\\Users\\Winilson de Paula\\Desktop\\backend\\DidActivation\\src\\DidActivation.Domain\\Exceptions\\ValidationException.cs",
+              "RelativeToolTip": "src\\DidActivation.Domain\\Exceptions\\ValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T14:46:52.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "C:\\Users\\Winilson de Paula\\Desktop\\backend\\DidActivation\\src\\DidActivation.Domain\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "src\\DidActivation.Domain\\Exceptions\\DomainException.cs",
+              "ToolTip": "C:\\Users\\Winilson de Paula\\Desktop\\backend\\DidActivation\\src\\DidActivation.Domain\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "src\\DidActivation.Domain\\Exceptions\\DomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T14:46:05.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ActivationsController.cs",
+              "DocumentMoniker": "C:\\Users\\Winilson de Paula\\Desktop\\backend\\DidActivation\\src\\DidActivation.Api\\Controllers\\ActivationsController.cs",
+              "RelativeDocumentMoniker": "src\\DidActivation.Api\\Controllers\\ActivationsController.cs",
+              "ToolTip": "C:\\Users\\Winilson de Paula\\Desktop\\backend\\DidActivation\\src\\DidActivation.Api\\Controllers\\ActivationsController.cs",
+              "RelativeToolTip": "src\\DidActivation.Api\\Controllers\\ActivationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T14:18:02.16Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

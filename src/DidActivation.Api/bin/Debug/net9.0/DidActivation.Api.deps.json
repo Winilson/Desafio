@@ -1,0 +1,222 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "DidActivation.Api/1.0.0": {
+        "dependencies": {
+          "DidActivation.Application": "1.0.0",
+          "DidActivation.Infrastructure": "1.0.0",
+          "Microsoft.AspNetCore.OpenApi": "9.0.2",
+          "Swashbuckle.AspNetCore.Swagger": "10.0.1",
+          "Swashbuckle.AspNetCore.SwaggerGen": "10.0.1",
+          "Swashbuckle.AspNetCore.SwaggerUI": "10.0.1"
+        },
+        "runtime": {
+          "DidActivation.Api.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.OpenApi/9.0.2": {
+        "dependencies": {
+          "Microsoft.OpenApi": "2.3.0"
+        },
+        "runtime": {
+          "lib/net9.0/Microsoft.AspNetCore.OpenApi.dll": {
+            "assemblyVersion": "9.0.2.0",
+            "fileVersion": "9.0.225.6704"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/10.0.0": {
+        "runtime": {
+          "lib/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.25.52411"
+          }
+        }
+      },
+      "Microsoft.OpenApi/2.3.0": {
+        "dependencies": {
+          "System.Text.Json": "8.0.5"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.OpenApi.dll": {
+            "assemblyVersion": "2.3.0.0",
+            "fileVersion": "2.3.0.0"
+          }
+        }
+      },
+      "Polly/8.6.5": {
+        "dependencies": {
+          "Polly.Core": "8.6.5"
+        },
+        "runtime": {
+          "lib/net6.0/Polly.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.6.5.5194"
+          }
+        }
+      },
+      "Polly.Core/8.6.5": {
+        "runtime": {
+          "lib/net8.0/Polly.Core.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.6.5.5194"
+          }
+        }
+      },
+      "Swashbuckle.AspNetCore.Swagger/10.0.1": {
+        "dependencies": {
+          "Microsoft.OpenApi": "2.3.0"
+        },
+        "runtime": {
+          "lib/net9.0/Swashbuckle.AspNetCore.Swagger.dll": {
+            "assemblyVersion": "10.0.1.0",
+            "fileVersion": "10.0.1.1964"
+          }
+        }
+      },
+      "Swashbuckle.AspNetCore.SwaggerGen/10.0.1": {
+        "dependencies": {
+          "Swashbuckle.AspNetCore.Swagger": "10.0.1"
+        },
+        "runtime": {
+          "lib/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
+            "assemblyVersion": "10.0.1.0",
+            "fileVersion": "10.0.1.1964"
+          }
+        }
+      },
+      "Swashbuckle.AspNetCore.SwaggerUI/10.0.1": {
+        "runtime": {
+          "lib/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
+            "assemblyVersion": "10.0.1.0",
+            "fileVersion": "10.0.1.1964"
+          }
+        }
+      },
+      "System.Text.Json/8.0.5": {},
+      "DidActivation.Application/1.0.0": {
+        "dependencies": {
+          "DidActivation.Domain": "1.0.0"
+        },
+        "runtime": {
+          "DidActivation.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "DidActivation.Domain/1.0.0": {
+        "runtime": {
+          "DidActivation.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "DidActivation.Infrastructure/1.0.0": {
+        "dependencies": {
+          "DidActivation.Application": "1.0.0",
+          "DidActivation.Domain": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "10.0.0",
+          "Polly": "8.6.5"
+        },
+        "runtime": {
+          "DidActivation.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DidActivation.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.OpenApi/9.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JUndpjRNdG8GvzBLH/J4hen4ehWaPcshtiQ6+sUs1Bcj3a7dOsmWpDloDlpPeMOVSlhHwUJ3Xld0ClZjsFLgFQ==",
+      "path": "microsoft.aspnetcore.openapi/9.0.2",
+      "hashPath": "microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/10.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-L3AdmZ1WOK4XXT5YFPEwyt0ep6l8lGIPs7F5OOBZc77Zqeo01Of7XXICy47628sdVl0v/owxYJTe86DTgFwKCA==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/10.0.0",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512"
+    },
+    "Microsoft.OpenApi/2.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5RZpjyt0JMmoc/aEgY9c1vE5pusdDGvkPl9qKIy9KFbRiIXD+w7gBJxX+unSjzzOcfgRoYxnO4okZyqDAL2WEw==",
+      "path": "microsoft.openapi/2.3.0",
+      "hashPath": "microsoft.openapi.2.3.0.nupkg.sha512"
+    },
+    "Polly/8.6.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VqtW2ZE/ALvQMAH1cQY3qZ2cF2OXa3oe/HKMdOv6Q02HCoEW0rsFNfcBONXlHBe1TnjWW1vdRxBEkPeq0/2FHA==",
+      "path": "polly/8.6.5",
+      "hashPath": "polly.8.6.5.nupkg.sha512"
+    },
+    "Polly.Core/8.6.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-t+sUVrIwvo7UmsgHGgOG9F0GDZSRIm47u2ylH17Gvcv1q5hNEwgD5GoBlFyc0kh/pebmPyrAgvGsR/65ZBaXlg==",
+      "path": "polly.core/8.6.5",
+      "hashPath": "polly.core.8.6.5.nupkg.sha512"
+    },
+    "Swashbuckle.AspNetCore.Swagger/10.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HJYFSP18YF1Z6LCwunL+v8wuZUzzvcjarB8AJna/NVVIpq11FH9BW/D/6abwigu7SsKRbisStmk8xu2mTsxxHg==",
+      "path": "swashbuckle.aspnetcore.swagger/10.0.1",
+      "hashPath": "swashbuckle.aspnetcore.swagger.10.0.1.nupkg.sha512"
+    },
+    "Swashbuckle.AspNetCore.SwaggerGen/10.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vMMBDiTC53KclPs1aiedRZnXkoI2ZgF5/JFr3Dqr8KT7wvIbA/MwD+ormQ4qf25gN5xCrJbmz/9/Z3RrpSofMA==",
+      "path": "swashbuckle.aspnetcore.swaggergen/10.0.1",
+      "hashPath": "swashbuckle.aspnetcore.swaggergen.10.0.1.nupkg.sha512"
+    },
+    "Swashbuckle.AspNetCore.SwaggerUI/10.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-a2eLI/fCxJ3WH+H1hr7Q2T82ZBk20FfqYBEZ9hOr3f+426ZUfGU2LxYWzOJrf5/4y6EKShmWpjJG01h3Rc+l6Q==",
+      "path": "swashbuckle.aspnetcore.swaggerui/10.0.1",
+      "hashPath": "swashbuckle.aspnetcore.swaggerui.10.0.1.nupkg.sha512"
+    },
+    "System.Text.Json/8.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0f1B50Ss7rqxXiaBJyzUu9bWFOO2/zSlifZ/UNMdiIpDYe4cY4LQQicP4nirK1OS31I43rn062UIJ1Q9bpmHpg==",
+      "path": "system.text.json/8.0.5",
+      "hashPath": "system.text.json.8.0.5.nupkg.sha512"
+    },
+    "DidActivation.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DidActivation.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DidActivation.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

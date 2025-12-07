@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AjSOc5llQug=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Winilson de Paula\\Desktop\\backend\\DidActivation\\src\\DidActivation.Infrastructure\\DidActivation.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Winilson de Paula\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\Winilson de Paula\\.nuget\\packages\\polly\\8.6.5\\polly.8.6.5.nupkg.sha512",
+    "C:\\Users\\Winilson de Paula\\.nuget\\packages\\polly.core\\8.6.5\\polly.core.8.6.5.nupkg.sha512"
+  ],
+  "logs": []
+}

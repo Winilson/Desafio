@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "AJ7RY3yXwO8iB4p/qGkh2lG0reyKKcuMOfsb33o6qT8=",
+  "Source": "DidActivation.Api",
+  "BasePath": "_content/DidActivation.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

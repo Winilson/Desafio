@@ -1,0 +1,15 @@
+C:\Users\Winilson de Paula\Desktop\backend\DidActivation\src\DidActivation.Application\bin\Debug\net9.0\DidActivation.Application.deps.json
+C:\Users\Winilson de Paula\Desktop\backend\DidActivation\src\DidActivation.Application\bin\Debug\net9.0\DidActivation.Application.dll
+C:\Users\Winilson de Paula\Desktop\backend\DidActivation\src\DidActivation.Application\bin\Debug\net9.0\DidActivation.Application.pdb
+C:\Users\Winilson de Paula\Desktop\backend\DidActivation\src\DidActivation.Application\bin\Debug\net9.0\DidActivation.Domain.dll
+C:\Users\Winilson de Paula\Desktop\backend\DidActivation\src\DidActivation.Application\bin\Debug\net9.0\DidActivation.Domain.pdb
+C:\Users\Winilson de Paula\Desktop\backend\DidActivation\src\DidActivation.Application\obj\Debug\net9.0\DidActivation.Application.csproj.AssemblyReference.cache
+C:\Users\Winilson de Paula\Desktop\backend\DidActivation\src\DidActivation.Application\obj\Debug\net9.0\DidActivation.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Winilson de Paula\Desktop\backend\DidActivation\src\DidActivation.Application\obj\Debug\net9.0\DidActivation.Application.AssemblyInfoInputs.cache
+C:\Users\Winilson de Paula\Desktop\backend\DidActivation\src\DidActivation.Application\obj\Debug\net9.0\DidActivation.Application.AssemblyInfo.cs
+C:\Users\Winilson de Paula\Desktop\backend\DidActivation\src\DidActivation.Application\obj\Debug\net9.0\DidActivation.Application.csproj.CoreCompileInputs.cache
+C:\Users\Winilson de Paula\Desktop\backend\DidActivation\src\DidActivation.Application\obj\Debug\net9.0\DidActiv.D2D3CD94.Up2Date
+C:\Users\Winilson de Paula\Desktop\backend\DidActivation\src\DidActivation.Application\obj\Debug\net9.0\DidActivation.Application.dll
+C:\Users\Winilson de Paula\Desktop\backend\DidActivation\src\DidActivation.Application\obj\Debug\net9.0\refint\DidActivation.Application.dll
+C:\Users\Winilson de Paula\Desktop\backend\DidActivation\src\DidActivation.Application\obj\Debug\net9.0\DidActivation.Application.pdb
+C:\Users\Winilson de Paula\Desktop\backend\DidActivation\src\DidActivation.Application\obj\Debug\net9.0\ref\DidActivation.Application.dll

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "7H+iKME2XMY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Winilson de Paula\\Desktop\\backend\\DidActivation\\src\\DidActivation.Api\\DidActivation.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Winilson de Paula\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.2\\microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
+    "C:\\Users\\Winilson de Paula\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\Winilson de Paula\\.nuget\\packages\\microsoft.openapi\\2.3.0\\microsoft.openapi.2.3.0.nupkg.sha512",
+    "C:\\Users\\Winilson de Paula\\.nuget\\packages\\polly\\8.6.5\\polly.8.6.5.nupkg.sha512",
+    "C:\\Users\\Winilson de Paula\\.nuget\\packages\\polly.core\\8.6.5\\polly.core.8.6.5.nupkg.sha512",
+    "C:\\Users\\Winilson de Paula\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.0.1\\swashbuckle.aspnetcore.swagger.10.0.1.nupkg.sha512",
+    "C:\\Users\\Winilson de Paula\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.0.1\\swashbuckle.aspnetcore.swaggergen.10.0.1.nupkg.sha512",
+    "C:\\Users\\Winilson de Paula\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.0.1\\swashbuckle.aspnetcore.swaggerui.10.0.1.nupkg.sha512",
+    "C:\\Users\\Winilson de Paula\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

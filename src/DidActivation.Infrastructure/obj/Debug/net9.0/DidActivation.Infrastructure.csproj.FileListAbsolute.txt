@@ -1,0 +1,17 @@
+C:\Users\Winilson de Paula\Desktop\backend\DidActivation\src\DidActivation.Infrastructure\bin\Debug\net9.0\DidActivation.Infrastructure.deps.json
+C:\Users\Winilson de Paula\Desktop\backend\DidActivation\src\DidActivation.Infrastructure\bin\Debug\net9.0\DidActivation.Infrastructure.dll
+C:\Users\Winilson de Paula\Desktop\backend\DidActivation\src\DidActivation.Infrastructure\bin\Debug\net9.0\DidActivation.Infrastructure.pdb
+C:\Users\Winilson de Paula\Desktop\backend\DidActivation\src\DidActivation.Infrastructure\bin\Debug\net9.0\DidActivation.Application.dll
+C:\Users\Winilson de Paula\Desktop\backend\DidActivation\src\DidActivation.Infrastructure\bin\Debug\net9.0\DidActivation.Domain.dll
+C:\Users\Winilson de Paula\Desktop\backend\DidActivation\src\DidActivation.Infrastructure\bin\Debug\net9.0\DidActivation.Application.pdb
+C:\Users\Winilson de Paula\Desktop\backend\DidActivation\src\DidActivation.Infrastructure\bin\Debug\net9.0\DidActivation.Domain.pdb
+C:\Users\Winilson de Paula\Desktop\backend\DidActivation\src\DidActivation.Infrastructure\obj\Debug\net9.0\DidActivation.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Winilson de Paula\Desktop\backend\DidActivation\src\DidActivation.Infrastructure\obj\Debug\net9.0\DidActivation.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Winilson de Paula\Desktop\backend\DidActivation\src\DidActivation.Infrastructure\obj\Debug\net9.0\DidActivation.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Winilson de Paula\Desktop\backend\DidActivation\src\DidActivation.Infrastructure\obj\Debug\net9.0\DidActivation.Infrastructure.AssemblyInfo.cs
+C:\Users\Winilson de Paula\Desktop\backend\DidActivation\src\DidActivation.Infrastructure\obj\Debug\net9.0\DidActivation.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Winilson de Paula\Desktop\backend\DidActivation\src\DidActivation.Infrastructure\obj\Debug\net9.0\DidActiv.18FAC2A4.Up2Date
+C:\Users\Winilson de Paula\Desktop\backend\DidActivation\src\DidActivation.Infrastructure\obj\Debug\net9.0\DidActivation.Infrastructure.dll
+C:\Users\Winilson de Paula\Desktop\backend\DidActivation\src\DidActivation.Infrastructure\obj\Debug\net9.0\refint\DidActivation.Infrastructure.dll
+C:\Users\Winilson de Paula\Desktop\backend\DidActivation\src\DidActivation.Infrastructure\obj\Debug\net9.0\DidActivation.Infrastructure.pdb
+C:\Users\Winilson de Paula\Desktop\backend\DidActivation\src\DidActivation.Infrastructure\obj\Debug\net9.0\ref\DidActivation.Infrastructure.dll

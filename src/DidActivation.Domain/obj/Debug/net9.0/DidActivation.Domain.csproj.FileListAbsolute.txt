@@ -1,0 +1,11 @@
+C:\Users\Winilson de Paula\Desktop\backend\DidActivation\src\DidActivation.Domain\bin\Debug\net9.0\DidActivation.Domain.deps.json
+C:\Users\Winilson de Paula\Desktop\backend\DidActivation\src\DidActivation.Domain\bin\Debug\net9.0\DidActivation.Domain.dll
+C:\Users\Winilson de Paula\Desktop\backend\DidActivation\src\DidActivation.Domain\bin\Debug\net9.0\DidActivation.Domain.pdb
+C:\Users\Winilson de Paula\Desktop\backend\DidActivation\src\DidActivation.Domain\obj\Debug\net9.0\DidActivation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Winilson de Paula\Desktop\backend\DidActivation\src\DidActivation.Domain\obj\Debug\net9.0\DidActivation.Domain.AssemblyInfoInputs.cache
+C:\Users\Winilson de Paula\Desktop\backend\DidActivation\src\DidActivation.Domain\obj\Debug\net9.0\DidActivation.Domain.AssemblyInfo.cs
+C:\Users\Winilson de Paula\Desktop\backend\DidActivation\src\DidActivation.Domain\obj\Debug\net9.0\DidActivation.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Winilson de Paula\Desktop\backend\DidActivation\src\DidActivation.Domain\obj\Debug\net9.0\DidActivation.Domain.dll
+C:\Users\Winilson de Paula\Desktop\backend\DidActivation\src\DidActivation.Domain\obj\Debug\net9.0\refint\DidActivation.Domain.dll
+C:\Users\Winilson de Paula\Desktop\backend\DidActivation\src\DidActivation.Domain\obj\Debug\net9.0\DidActivation.Domain.pdb
+C:\Users\Winilson de Paula\Desktop\backend\DidActivation\src\DidActivation.Domain\obj\Debug\net9.0\ref\DidActivation.Domain.dll
