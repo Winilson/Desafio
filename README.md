@@ -1,6 +1,6 @@
 # Desafio – Backend de Ativação de DIDs
 
-![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-9.0-512BD4?logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-Dev-239120?logo=csharp&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-Logic_Apps-0078D4?logo=microsoft-azure&logoColor=white)
 ![Architecture](https://img.shields.io/badge/Architecture-Hexagonal-4B32C3)
@@ -226,7 +226,7 @@ Embora o desafio peça o fluxo no **Excalidraw** para o Logic App, o backend foi
 
 ## Tecnologias utilizadas
 
-- **.NET 8 / C#**
+- **.NET 9 / C#**
   - ASP.NET Core para a API.
 - **Arquitetura Hexagonal**
   - Separação clara de Domain, Application, Infrastructure, Api.
@@ -243,7 +243,7 @@ Embora o desafio peça o fluxo no **Excalidraw** para o Logic App, o backend foi
 
 Pré-requisitos:
 
-- .NET 8 SDK instalado.
+- .NET 9 SDK instalado.
 
 Na raiz da solution:
 
